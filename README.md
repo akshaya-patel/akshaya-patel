@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshaya-patel
+- 👋 Hi, I’m <p> <h6> @akshaya-patel
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on 
